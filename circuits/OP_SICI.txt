@@ -1,0 +1,29 @@
+       --- Operating Point SICI---
+
+V(4):	 18	 voltage
+V(8):	 -4	 voltage
+V(7):	 39	 voltage
+V(3):	 -7	 voltage
+V(9):	 -19	 voltage
+V(5):	 -15	 voltage
+V(6):	 -25	 voltage
+V(1):	 26	 voltage
+I(F):	 	11	 device_current
+I(J2):	 5	 device_current
+I(J1):	 1	 device_current
+I(J3):	 7	 device_current
+I(R1):	 -13	 device_current
+I(R4):	 -13	 device_current
+I(R5):	 -5	 device_current
+I(R8):	 -4	 device_current
+I(R3):	 8	 device_current
+I(R7):	 7	 device_current
+I(R6):	 11	 device_current
+I(R2):	 6	 device_current
+I(E2):	 0	 device_current
+I(E7):	 -4	 device_current
+I(E4):	 -3	 device_current
+I(E5):	 11	 device_current
+I(E1):	 7	 device_current
+I(E6):	 -18	 device_current
+I(E3):	 -6	 device_current
